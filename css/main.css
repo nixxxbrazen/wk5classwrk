@@ -1,0 +1,23 @@
+
+body {
+  text-align: center;
+}
+
+.box {
+  display: inline-block;
+  height: 100px;
+  width: 48%;
+}
+
+img {
+  width: 100%;
+}
+
+.navbar-default {
+  background-color: #cc9900;
+}
+
+.btn-success {
+  background-color: #cc9900;
+  border-color: #000000;
+}
